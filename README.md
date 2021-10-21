@@ -1,4 +1,6 @@
-# 致谢  
+# 致谢
+作者：lemoex  
+  
 [原链接](https://github.com/lemoex/oci-help)
   
 # 甲骨文实例抢购教程
