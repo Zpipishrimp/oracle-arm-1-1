@@ -1,3 +1,6 @@
+# 致谢  
+[原链接](https://github.com/lemoex/oci-help)
+  
 # 甲骨文实例抢购教程
 
 ## 获取用户 OCID 和租户 OCID
