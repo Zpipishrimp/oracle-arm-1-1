@@ -18,7 +18,7 @@
 
 
 ### 方法二
-下载 [oci-help.sh] {https://github.com/Serendipper-1/oracle-arm-1-1/tree/main/shell}脚本。
+下载 [oci-help.sh] （https://github.com/Serendipper-1/oracle-arm-1-1/tree/main/shell）脚本。
 用文本编辑器打开 oci-help.sh，根据上面获取到的参数修改脚本。保存后通过下面命令运行脚本开始新建或者升级实例。
 ```
 # 新建实例
