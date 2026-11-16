@@ -1,0 +1,9 @@
+# PowerShell 5.1 要求 .ps1/.cmd 为 CRLF 换行，否则中文乱码、here-string 解析失败
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# shell 脚本必须 LF，否则在 Linux 上会报 bad interpreter
+*.sh  text eol=lf
+
+*.md  text
