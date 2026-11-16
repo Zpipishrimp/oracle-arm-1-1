@@ -1,0 +1,22 @@
+# ===== 凭证与私钥：绝对不要提交 =====
+*.pem
+*.key
+*.ppk
+*.p12
+*.pfx
+.oci/
+account.txt
+config
+.env
+
+# ===== 运行产物 =====
+log/
+success.json
+*.log
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
